@@ -1,0 +1,26 @@
+<222>&"tryng"&"the"&"connection"&$$
+
+
+
+	CONECTION PROTOCOL
+error: 101("error found")
+connection: 222("tryng the connection...")
+connection accepted: 230("connection successful")
+connection denied: 231("connection denied")
+message arrived successful: 300("data arrived successful")
+permission to send datas: 333("now you can send data, tell me what type of data" // "ok now send datas")
+types of datas: (single number(int): 400)
+		(single string:4 414)
+		(a whole amount of datas of any type: 444)
+
+shutdown of connection: 500("end connection bye")
+
+
+	NOTE 
+-all data strings end with $$	ex("message"$$)
+-as separator the space is replaced by the & ex("word1"&"word2"&"word3"&$$)
+-all numeric codes are inserted inside the <> symbols(<222>&"tryng"&"the"&"connection"&$$)
+
+	ADVICES
+-use the function split with & for collect data easily  (array[0]="<222>"; array[1]="tryng"; array[2]="the"; ecc...)
+
