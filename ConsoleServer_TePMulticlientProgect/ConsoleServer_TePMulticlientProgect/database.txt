@@ -1,0 +1,21 @@
+;;
+Name;Surname;Fiscal code
+Antonio;Surname;Fiscal code
+simone;Surname;Fiscal code
+gesu;cris to;
+Name;gggg;Fiscal code
+finocchio;Surname;Fiscal code
+gagaga;Surname;Fiscal code
+giorgio;malnati;mlngrg02h72g657y
+jnjnnjnjn;Surname;Fiscal code
+jijijiji;Surname;Fiscal code
+huhuh;Surname;Fiscal code
+hdgfyhr;Surname;Fiscal code
+Name;dsdsds;Fiscal code
+juhuju;Surname;Fiscal code
+any;Surname;Fiscal code
+srefdte;Surname;Fiscal code
+hdusugud;Surname;Fiscal code
+Name;Surname;Fiscal code
+Name;Surname;Fiscal code
+Name;Surname;Fiscal code
